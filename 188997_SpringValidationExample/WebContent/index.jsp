@@ -7,24 +7,7 @@
 <title>index</title>
 </head>
 <body>
-<h1>Registration Form</h1><br>
-    <p>Please fill in this form to create an account.</p><br>
 
-
-    <label for="username"><b>User name</b></label>
-    <input type="text" placeholder="Enter Username" name="username"><br>
-
-     <label for="address"><b>Address  </b></label>
-    <input type="text" placeholder="Enter address" name="address"><br>
-    
-     <label for="email"><b>Email    </b></label>
-    <input type="text" placeholder="Enter email" name="email"><br>
-    
-     <label for="mobile">Mobile  </label>
-    <input type="text" placeholder="Enter mobile" name="mobile"><br>
-    
-     <label for="password"><b>Password </b></label>
-    <input type="pwd" placeholder="Enter password" name="password"><br>
     <a href="register">Register Now</a>
 </body>
 </html>
